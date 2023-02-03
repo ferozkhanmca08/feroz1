@@ -1,4 +1,4 @@
 <?php
-echo "P-HP"; 
+echo "PHP"; 
 ?>
 
