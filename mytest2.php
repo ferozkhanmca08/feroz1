@@ -1,3 +1,3 @@
 <?php
-echo "Mytest2-branch2";
+echo "Mytest-branch1";
 ?>
