@@ -1,3 +1,3 @@
 <?php
-echo "mytestb1";
+echo "M2ytestb1";
 ?>
