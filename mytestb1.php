@@ -1,3 +1,3 @@
 <?php
-echo "Mytestb1-brach";
+echo "Mytestb1";
 ?>
