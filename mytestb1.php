@@ -1,5 +1,5 @@
 <?php
 
-echo "iytestb11";
+echo "iytest";
 
 ?>
