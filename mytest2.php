@@ -1,5 +1,5 @@
 <?php
-$a = 1;
-$b = 10;
+$a = 2;
+$b = 20;
 echo "mytest2 file";
 ?>
