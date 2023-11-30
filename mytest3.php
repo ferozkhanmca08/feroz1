@@ -1,3 +1,3 @@
 <?php
-echo "mytest3 page";
+echo "mytest3 page12";
 ?>
